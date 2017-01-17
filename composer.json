@@ -1,5 +1,5 @@
 {
-	"name": "tecnickcom/tcpdf",
+	"name": "WellServicesGroup/tcpdf",
 	"version": "6.2.12",
 	"homepage": "http://www.tcpdf.org/",
 	"type": "library",
@@ -24,6 +24,8 @@
 		"tcpdf.php",
 		"tcpdf_parser.php",
 		"tcpdf_import.php",
+		"tcpdi.php",
+		"tcpdi_parser.php",
 		"tcpdf_barcodes_1d.php",
 		"tcpdf_barcodes_2d.php",
 		"include/tcpdf_colors.php",
